@@ -1,0 +1,14 @@
+{
+  "name": "bot-ucp-samp",
+  "version": "1.0.0",
+  "description": "Bot Discord UCP SA-MP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.7"
+  }
+}
